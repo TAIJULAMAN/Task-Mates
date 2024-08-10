@@ -24,7 +24,7 @@ Follow these steps to set up the project locally:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/taskmates.git
+    git clone https://github.com/TAIJULAMAN/Task-Mates.git
     ```
 2. Navigate to the project directory:
     ```bash
@@ -39,15 +39,3 @@ Follow these steps to set up the project locally:
     npm run dev
     ```
 5. Open your browser and go to `http://localhost:3000` to see the application in action.
-
-## Folder Structure
-
-```plaintext
-taskmates/
-├── components/      # Reusable UI components
-├── pages/           # Next.js pages and routes
-├── styles/          # Tailwind CSS styles and global styles
-├── utils/           # Utility functions and helpers
-├── public/          # Static assets
-├── types/           # TypeScript types
-└── README.md        # Project documentation
